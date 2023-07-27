@@ -15,6 +15,14 @@
         ],
         "SH1": [
             "stopsignal.SHUNTING"
+        ],
+        "STATUSLIGHT": [
+            "stopsignal.OFF",
+            "hphome.OFF",
+            "hpblock.OFF",
+            "identifier.TRUE",
+            "vrlight.TRUE",
+            "distantsignal.OFF"
         ]
     }
     
